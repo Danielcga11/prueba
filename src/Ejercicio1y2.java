@@ -10,8 +10,7 @@ public class Ejercicio1y2 {
         boolean comparacion1 = a < b;
         boolean comparacion2 = c != d;
         // Imprimir resultados del primer ejercicio
-        System.out.println("Resultados del Ejercicio 1");
-        System.out.println(f);
+        System.out.println("Resultado del Ejercicio 1");
         System.out.println(resultado);
         System.out.println("Resultados del Ejercicio 2");
         System.out.println(comparacion1);
